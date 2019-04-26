@@ -185,6 +185,10 @@ nav a {
     margin-bottom: 25px;
 }
 
+header {
+    animation-duration: 3s;
+}
+
 
 .top-content {
     display: flex;
